@@ -49,8 +49,8 @@ customer-churn-analysis/
 ## Project Status
 
 - [x] Dataset acquired and explored
-- [ ] Data cleaning and preprocessing
-- [ ] Exploratory Data Analysis (EDA)
+- [x] Data cleaning and preprocessing
+- [x] Exploratory Data Analysis (EDA)
 - [ ] Model training and evaluation
 - [ ] Insights summary and recommendations
 - [ ] Deployment as a web app
