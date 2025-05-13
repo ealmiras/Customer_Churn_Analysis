@@ -36,11 +36,11 @@ The dataset includes customer-level data such as:
 ## Project Structure
 
 customer-churn-analysis/
-- data/ # Raw and processed data files
-- notebooks/ # Jupyter notebooks for EDA, modeling, and evaluation
-- src/ # Modular Python scripts for preprocessing & modeling
-- reports/ # Visuals and summary reports
-- app/ # Streamlit app
+- data/ Raw and processed data files
+- notebooks/ Jupyter notebooks for EDA, modeling, and evaluation
+- src/ Modular Python scripts for preprocessing & modeling
+- reports/ Visuals and summary reports
+- app/ Streamlit app
 - README.md
 - requirements.txt
 
